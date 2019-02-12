@@ -3,6 +3,10 @@
   "port": 8000,
   "channels": [
     {
+      "job": "demoDelete.py",
+      "frequency": 5
+    },
+    {
       "job": "demo.py",
       "frequency": 5
     }
